@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "timings",
+            "database": "/home/johannes/Code/academy/mandelbrot-comparison/output/timings.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
